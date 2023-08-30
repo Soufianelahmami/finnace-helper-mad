@@ -4,20 +4,20 @@
      
     
         
-      "banner_type":"unity",
-      "inter_type":"unity",
+      "banner_type":"yandex",
+      "inter_type":"yandex",
       "native_type":"yandex",
-      "reward_type":"unity",
+      "reward_type":"yandex",
       
 
       "ironsource_id":"1896f3d85",
       "unity_id":"5149029",
      
 
-     "banner_id":"R-M-DEMO-300x50",
-      "interstitial_id":"R-M-DEMO-interstitial",
-      "reward_id":"R-M-DEMO-native-i",
-      "native_id":"R-M-DEMO-300x50",
+     "banner_id":"R-M-2656755-1",
+      "interstitial_id":"R-M-2656755-3",
+      "reward_id":"R-M-2656755-4",
+      "native_id":"R-M-2656755-2",
         
         
         "more_apps_image": "https://wallpaper.dog/large/20487356.jpg",
